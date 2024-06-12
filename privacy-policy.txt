@@ -1,1 +1,9 @@
 Privacy Policy
+
+This Privacy Policy describes how your personal information is collected,
+used, and shared when you visit or make a purchase from NOT ART contest telegram bot (the “Bot”).
+
+PERSONAL INFORMATION WE COLLECT
+
+As you use the Bot, we collect information about your Telegram account,
+including your Telegram ID, username, and first name. We refer to this information as “Device Information”.
